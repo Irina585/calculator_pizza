@@ -7,9 +7,6 @@ const borderStyle = OutlineInputBorder(
 const linkTextStyle = TextStyle(
     fontSize: 18, fontWeight: FontWeight.bold, color: Color(0xFF0079D0));
 
-const radioTextStyle = TextStyle(
-    fontSize: 18, fontWeight: FontWeight.normal, color: Colors.black);
-
 const headerTextStyle = TextStyle(
     fontSize: 20, fontWeight: FontWeight.bold, color: Colors.black);
 

@@ -1,4 +1,4 @@
-import 'package:calculator_pizza/const.dart';
+import 'package:calculator_pizza/styles.dart';
 import 'package:flutter/material.dart';
 
 class PageRegistration extends StatelessWidget {
